@@ -26,7 +26,7 @@ Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enf
 
 ## 🗂️ Proyecto Intermodular
 - 📘 [Guía básica de Git y GitHub (cheat sheet)](https://education.github.com/git-cheat-sheet-education.pdf)  
-- 📘 [Ejemplo de memoria de proyecto de FP (formato oficial, Junta de Andalucía)](https://www.juntadeandalucia.es/educacion/portals/web/educacion-profesional/proyecto-intermodular) *(siempre adaptado a centro)*  
+- 📘 [Guía para principiantes de FreeCodeCamp](https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/) 
 - 📘 [Buenas prácticas para documentar proyectos](https://guides.github.com/features/wikis/)  
 
 ---
