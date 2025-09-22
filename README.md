@@ -17,10 +17,11 @@ Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enf
 ---
 
 ## 📚 Normativa oficial
-- 📄 [Ley Orgánica 3/2022, de Ordenación e Integración de la FP](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4975)  
-- 📄 [RD 659/2023 – Ordenación de la FP](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12955)  
-- 📄 [Orden EFD/659/2024 – Desarrollo curricular FP](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-9251)  
-- 📄 [Título oficial ASIR (RD 1629/2009)](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18356)  
+- 📄 [Ley Orgánica 3/2022, de Ordenación e Integración de la FP](https://www.boe.es/eli/es/lo/2022/03/31/3/con)  
+- 📄 [RD 659/2023 – Ordenación de la FP](https://www.boe.es/eli/es/rd/2009/10/30/1629)
+- 📄 [RD 500/2024 – Modificación del RD](https://www.boe.es/eli/es/rd/2024/05/21/500)
+- 📄 [Orden EDU/392/2010 – Desarrollo curricular FP](https://www.boe.es/eli/es/o/2010/01/20/edu392)  
+- 📄 [Currículo Andalucía](https://www.todofp.es/dam/jcr:fd1f0f63-c0a3-41dd-bfea-ca8c33da7cca/andtsadministracion-sistemas-informaticos-en-red-pdf.pdf)  
 
 ---
 
@@ -56,8 +57,8 @@ Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enf
 
 ## 🔐 Seguridad y copias de respaldo
 - 🔐 [OWASP Top 10 – Buenas prácticas de seguridad](https://owasp.org/www-project-top-ten/)  
-- 🔐 [Guía de Seguridad CCN-CERT (España)](https://www.ccn-cert.cni.es/publico/)  
-- 💾 [Estrategias de backup 3-2-1 (Veeam)](https://www.veeam.com/blog/es/estrategia-de-backup-3-2-1.html)  
+- 🔐 [Guía de Seguridad CCN-CERT (España)](https://www.ccn-cert.cni.es/es/guias.html)  
+- 💾 [Estrategias de backup 3-2-1](https://walternavarrete.com/estrategia-de-respaldo-logrando-la-regla-3-2-1/)  
 
 ---
 
@@ -70,6 +71,6 @@ Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enf
 ---
 
 ## 📖 Recursos de aprendizaje adicionales
-- 📖 [Man pages de Linux online](https://man7.org/linux/man-pages/)  
+- 📖 [Man pages de Linux online](https://man.cx/man(1)/es)  
 - 📖 [Cheat sheet de comandos Linux](https://files.fosswire.com/2007/08/fwunixref.pdf)  
 - 📖 [Markdown Guide (para documentar bien en GitHub)](https://www.markdownguide.org/basic-syntax/)  
