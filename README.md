@@ -13,7 +13,7 @@ Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enf
 - [🔐 Seguridad y copias de respaldo](#-seguridad-y-copias-de-respaldo)
 - [☁️ Cloud y contenedores](#%EF%B8%8F-cloud-y-contenedores)
 - [📖 Recursos de aprendizaje adicionales](#-recursos-de-aprendizaje-adicionales)
-
+- [📜 Material de ayuda para la elaboración de la memoria/documentación](#-Material-de-ayuda-para-la-elaboración-de-la-memoria/documentación)
 ---
 
 ## 📚 Normativa oficial
@@ -74,4 +74,10 @@ Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enf
 ## 📖 Recursos de aprendizaje adicionales
 - 📖 [Man pages de Linux online](https://man.cx/man(1)/es)  
 - 📖 [Cheat sheet de comandos Linux](https://files.fosswire.com/2007/08/fwunixref.pdf)  
-- 📖 [Markdown Guide (para documentar bien en GitHub)](https://www.markdownguide.org/basic-syntax/)  
+- 📖 [Markdown Guide (para documentar bien en GitHub)](https://www.markdownguide.org/basic-syntax/)
+
+---
+
+## 📜 Material de ayuda para la elaboración de la memoria/documentación
+- 📜 [Guía de normas APA actualizada a 2025](https://normasapa.in/)
+
