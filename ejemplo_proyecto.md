@@ -118,3 +118,17 @@ El escenario ficticio es la empresa *TechSolutions S.L.*, con unos 50 empleados,
 ---
 
 📌 Este proyecto integra todos los módulos de ASIR y demuestra competencias técnicas, organizativas y comunicativas.
+
+----------------------------------------------------------------------------------------------------------
+# 📅 Fases del Diagrama de Gantt – Proyecto Intermodular ASIR
+
+| Fase | Subfases principales | Dependencias |
+|------|----------------------|--------------|
+| **1. Inicio del proyecto** | - Acta de constitución<br>- Definición de objetivos y alcance<br>- Identificación de recursos y roles<br>- Planificación inicial | Ninguna |
+| **2. Análisis y diseño** | - Estudio de requisitos<br>- Diseño de la infraestructura (red lógica y física)<br>- Selección de hardware y software<br>- Diseño de políticas de seguridad y HA<br>- Elaboración de diagramas (UML, ER, arquitectura, flujos) | F1 |
+| **3. Preparación de entornos** | - Montaje de entornos de virtualización (Proxmox/VMware)<br>- Instalación base de Windows Server y Linux<br>- Creación de snapshots e imágenes iniciales | F2 |
+| **4. Implementación** | - Redes: VLANs, direccionamiento, firewall, VPN<br>- Windows Server: AD, GPO, permisos<br>- Linux: servicios web, correo, BBDD<br>- Aplicaciones web: despliegue CMS/app<br>- BBDD: diseño, creación y administración<br>- Cloud: correo, web pública, backups<br>- Monitorización: Zabbix/Grafana<br>- Automatización: scripts en Bash/PowerShell | F3 |
+| **5. Pruebas y validación** | - Pruebas unitarias por servicio<br>- Pruebas de integración<br>- Pruebas de seguridad (roles, accesos, auditorías)<br>- Validación de alta disponibilidad<br>- Informe de resultados | F4 |
+| **6. Documentación** | - Memoria técnica (índice oficial)<br>- Manual de usuario y administrador<br>- Presupuesto y comparativas<br>- Anexos (scripts, evidencias, capturas, acta, WBS)<br>- Documentación técnica en inglés | F5 |
+| **7. Defensa final** | - Preparación de la presentación oral<br>- Elaboración de diapositivas<br>- Ensayo de demo (AD, VPN, monitorización, automatización)<br>- Defensa pública | F6 |
+
