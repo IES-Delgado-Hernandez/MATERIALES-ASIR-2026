@@ -34,6 +34,7 @@ Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enf
 ---
 
 ## 📊 Herramientas de gestión de proyectos
+- ▶️ [Tutorial Microsoft Project (YouTube)](https://www.youtube.com/watch?v=Tv8-fevUXH8)
 - 🗓️ [Crear diagramas de Gantt online – GanttProject (gratis)](https://www.ganttproject.biz/)  
 - 🗓️ [Apuntes PDF Diagrama de Gantt](https://face.unt.edu.ar/web/iadmin/wp-content/uploads/sites/2/2014/12/Aplicaci%C3%B3n-pr%C3%A1ctica-Diagrama-de-Gantt-para-Jornada-IA-Handl.pdf)  
 - 📐 [Draw.io – Diagramas de red y UML](https://app.diagrams.net/)  
