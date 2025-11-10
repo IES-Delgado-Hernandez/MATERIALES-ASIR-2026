@@ -1,9 +1,11 @@
 # Ayuda para la realización de la Tarea 5 (Proyecto Intermodular – 2.º ASIR)
+> - **NOTA**: AL FINAL DE ESTE ARCHIVO SE ENCUENTRA UN RESUMEN RÁPIDO DE TODA LA INFORMACIÓN
 
 > **Propósito de este documento**  
 > Esta guía te explica **cómo preparar la Tarea 5** paso a paso, con ejemplos y plantillas listas para copiar/pegar. Está organizada en dos grandes bloques que coinciden con lo que se evalúa:
 > - **Criterio (f):** Determinar las **características específicas** del proyecto según los requerimientos → **Pre-anteproyecto**.  
 > - **Criterio (i):** Elaborar el **guion de trabajo** que se seguirá para la elaboración del proyecto → **Plan de trabajo**.
+
 
 ---
 
@@ -265,3 +267,75 @@ Identifica **mínimo 5** riesgos con su probabilidad/impacto, prevención y cont
 - **Entrega:** Moodle
 
 > Consejo final: escribe primero un **borrador breve** (1–2 páginas) para validar enfoque y alcance. Después amplía con requisitos, WBS y cronograma.
+
+---
+
+# RESUMEN RÁPIDO – Tarea 5: Pre-anteproyecto y guión de trabajo
+
+> **Objetivo general:**  
+> Definir tu idea de proyecto (**pre-anteproyecto**) y planificar **cómo vas a desarrollarla** (**guion de trabajo**).  
+> Es el paso previo al anteproyecto final del trimestre.
+
+---
+
+##  Parte 1 – Pre-anteproyecto (criterio f)
+
+Define **qué vas a hacer** y **por qué**.  
+Conecta con las tareas anteriores (sector, empresa, necesidad detectada).
+
+**Contenido mínimo:**
+1. **Título del proyecto**  
+2. **Sector y contexto** (motivación y características tecnológicas)  
+3. **Necesidad o problema detectado**  
+4. **Propuesta o idea de solución**  
+   - Propósito y alcance  
+   - Público objetivo y beneficios  
+5. **Requisitos del proyecto**  
+   - Funcionales (qué hace el sistema)  
+   - No funcionales (rendimiento, seguridad, disponibilidad, etc.)  
+6. **Recursos necesarios** (técnicos y humanos)  
+7. **Restricciones o límites**  
+8. **Beneficios esperados y criterios de éxito**
+
+---
+
+##  Parte 2 – Guion de trabajo (criterio i)
+
+Planifica **cómo** vas a realizar el proyecto: fases, tiempos, tareas, riesgos y control.
+
+**Debe incluir:**
+1. **Objetivos SMART** (claros, medibles y alcanzables)  
+2. **Entregables** con criterios de aceptación  
+3. **Estructura de trabajo (WBS)** – fases y tareas numeradas  
+4. **Cronograma o Gantt simple** – semanas, hitos y dependencias  
+5. **Roles y recursos por tarea**  
+6. **Método de trabajo** – Git, documentación, tableros, revisiones  
+7. **Gestión de riesgos** – mínimo 5 con prevención y contingencia  
+8. **Plan de comunicación y control** – informes o actas semanales  
+
+---
+
+##  Checklist antes de entregar
+
+✅ Requisitos funcionales y no funcionales definidos  
+✅ Objetivos SMART redactados  
+✅ Fases y tareas bien estructuradas (WBS)  
+✅ Cronograma realista con hitos  
+✅ Riesgos y medidas preventivas incluidos  
+✅ Documento claro, numerado y completo  
+✅ Nombre correcto del archivo:  
+`Tarea5_Unidad1_Nombre completo del alumno.pdf`
+
+---
+
+##  Formato y entrega
+
+- **Formato:** PDF  
+- **Nombre del archivo:** `Tarea5_Unidad1_Nombre completo del alumno.pdf`  
+- **Entrega:** Moodle  
+- **Presentación:** breve exposición (5–7 min) con los aspectos clave del proyecto.
+
+> 💡 **Consejo:**  
+> Resume en una diapositiva los apartados clave (título, necesidad, solución, fases e hitos).  
+> Esto te servirá como guion para la presentación oral.
+
