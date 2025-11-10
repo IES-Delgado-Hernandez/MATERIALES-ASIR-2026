@@ -11,7 +11,7 @@
 
 ## 0) Qué debo entregar (resumen)
 
-- **Un único PDF** con nombre: `Tarea5_Unidad1_Nombre completo del alumno.pdf`
+- **Un único archivo** con nombre: `Tarea5_Unidad1_Nombre completo del alumno.formato`
 - Contenido mínimo:
   1) **Pre-anteproyecto** (criterio f)  
   2) **Guion de trabajo** (criterio i)  
@@ -330,7 +330,7 @@ Planifica **cómo** vas a realizar el proyecto: fases, tiempos, tareas, riesgos 
 
 ##  Formato y entrega
 
-- **Formato:** PDF  
+- **Formato:** presentación  
 - **Nombre del archivo:** `Tarea5_Unidad1_Nombre completo del alumno.pdf`  
 - **Entrega:** Moodle  
 - **Presentación:** breve exposición (5–7 min) con los aspectos clave del proyecto.
