@@ -3,7 +3,7 @@ tarea: 6
 unidad: 1
 modulo: Proyecto Intermodular
 criterios:
-  - RA1
+  - RA1 g)
 titulo: Obligaciones fiscales, laborales y de prevención de riesgos aplicables al proyecto
 formato_entrega: PDF
 nombre_archivo: Tarea6_Unidad1_Nombre completo del alumno.pdf
