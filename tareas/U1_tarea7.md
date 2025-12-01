@@ -3,7 +3,7 @@ tarea: 7
 unidad: 1
 modulo: Proyecto Intermodular
 criterios:
-  - RA1
+  - RA1 h)
 titulo: Investigación de programas de financiación pública aplicables al proyecto
 formato_entrega: PDF
 nombre_archivo: Tarea7_Unidad1_Nombre completo del alumno.pdf
