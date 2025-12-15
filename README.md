@@ -1,6 +1,21 @@
 # 📘 Materiales ASIR 2026
 
 Repositorio con apuntes, recursos y plantillas para el alumnado de 2º ASIR, enfocado en el **Proyecto Intermodular** y los módulos relacionados.
+---
+
+# Proyecto Intermodular – 2.º ASIR
+
+Repositorio creado por **Pablo Camacho**, profesor del  
+**Ciclo Formativo de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
+del **IES Delgado Hernández**.
+
+Este repositorio está destinado al alumnado de **2.º de ASIR** como espacio de referencia para:
+- Enunciados y tareas del Proyecto Intermodular.
+- Documentación de apoyo y ejemplos.
+- Entregas y seguimiento del trabajo por criterios.
+- Desarrollo progresivo de proyectos reales alineados con el perfil profesional ASIR.
+
+El objetivo es trabajar el proyecto con un enfoque **realista, técnico y profesional**, similar al que se encontrarán en el entorno laboral.
 
 ---
 
