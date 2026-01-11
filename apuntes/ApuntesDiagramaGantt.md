@@ -103,9 +103,9 @@ Las tareas deben reflejar **todas las fases reales del proyecto**, alineadas con
 Ejemplo:
 
 Diseño del sistema
-├─ Diseño de red
-├─ Diseño de base de datos
-└─ Diagramas UML
+   - Diseño de red
+   - Diseño de base de datos
+   - Diagramas UML
 
 
 ---
