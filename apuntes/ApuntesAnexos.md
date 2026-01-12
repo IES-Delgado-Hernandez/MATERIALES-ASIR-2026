@@ -43,4 +43,4 @@ Para que los anexos sean profesionales, deben seguir este orden:
 * **Referencias cruzadas:** En el cuerpo del texto se debe indicar: *(Ver Anexo III: Script de automatización de copias de seguridad)*.
 
 > [!TIP]
-> **Consejo para el alumno:** Si un script tiene más de 10 líneas, mándalo al anexo. Si una captura de pantalla no es vital para entender el paso actual, mándala al anexo.
+> **Consejo:** Si un script tiene más de 10 líneas, mándalo al anexo. Si una captura de pantalla no es vital para entender el paso actual, mándala al anexo.
